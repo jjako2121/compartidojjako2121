@@ -13,3 +13,7 @@ Proporciona información sobre las características y los beneficios de la Plata
  
  
  esta bien pero esto no es lo último verificar y corregir 
+
+
+
+mira si tieness este cambio sin commit es decir git fetch
